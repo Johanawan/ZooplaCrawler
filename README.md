@@ -25,3 +25,5 @@ Turns the nested dictionary into a Pandas DataFrame
 
 Saves the data into a CSV file.
 ![Image of CSV Data](https://github.com/Johanawan/ZooplaCrawler/blob/master/images/ExcelData.JPG)
+
+Future Note* Create frontend to display cards of housing information.
