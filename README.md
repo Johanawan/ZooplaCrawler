@@ -10,7 +10,7 @@ Regular Expressions
 
 Stage 1: Extract relevant HTML tags that hold data such as: Names, Listing Dates, Prices, Addresses, Bedrooms, Agents, Descriptions, and Urls. 
 
-Stage 2: Loop through each page on Zoopla and collect all data listed in Stage 1.
+Stage 2: Loop through paginator on Zoopla and collect all data listed in Stage 1.
 
 Stage 3: Transform into a data frame and create a CSV file. (You need to specify where you want it store on the code.
 
